@@ -3,17 +3,17 @@
 
 Bienvenue sur mon portfolio de projets en Data Science, Power BI, et Python. Vous trouverez ici un aperçu de mes travaux personnels et académiques.
 
-## 📊 Projet 1 – Dashboard Power BI : Évolution des cinémas
+## 📊 Projet 1 & 2 – Dashboard Power BI : Évolution des cinémas & Évolution des festivals de france
 
 **🔗 Dépôt GitHub** : [Voir le projet](https://github.com/ngaristide/Dashbord_Projet_POWER-BI)
 
 **📌 Description** :
 - Nettoyage et transformation des données avec Power Query
 - Modélisation du data model (relations, mesures DAX)
-- Visualisations interactives (fréquentation, séances, origines de films)
+- Visualisations interactives 
 - Déploiement dans Power BI Service
 .
-## 🗺️ Projet 2 – Paris Explorer (ETL + Leaflet)
+## 🗺️ Projet 3 – Paris Explorer (ETL + Leaflet)
 
 **🔗 Dépôt GitHub** : [Voir le projet](https://github.com/ngaristide/paris-explorer.git) 
 
@@ -32,7 +32,7 @@ Ce projet récupère les événements publics de l’API officielle **"Que faire
 
 ## 🧑‍💼 À propos de moi
 
-- 🎓 Étudiant ayant récement obtenu son en Master 2 en Data Science & Stratégie (Diplome Expert en Ingénierie Informatique en cour de reception)à IONIS STM
+- 🎓 Étudiant ayant récemment obtenu son Master 2 en Data Science & Stratégie à IONIS STM (diplôme d’Expert en Ingénierie Informatique en cours de réception).
 - 📌 Objectif : Devenir Chief Data Officer
 - 💼 Disponible pour un CDI à partir de janvier 2026
 - 📫 Contact : ngoualemaris@gmail.com | [LinkedIn](https://www.linkedin.com/in/aristidengoualem/)
