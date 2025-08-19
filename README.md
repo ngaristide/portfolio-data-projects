@@ -1,10 +1,11 @@
 # portfolio-data-projects
 # 👨‍💻 Portfolio - Projets Data & Business Intelligence
 
-Bienvenue sur mon portfolio de projets en Data Science, Power BI, et Python. Vous trouverez ici un aperçu de mes travaux personnels et académiques.
+Bienvenue sur mon portfolio de projets en **Data Science**, **Power BI**, et **Python**, Vous trouverez ici un aperçu de mes travaux personnels et académiques.
 
-📊 Projet 4 récent – Dashboard Power BI : Suivi des Ventes & Commandes Annulées  
-🔗 Dépôt GitHub : [Voir le projet](https://github.com/ton-profil/powerbi-sales-dashboard)  
+## 📊 Projet 4 – Dashboard Power BI : Suivi des Ventes & Commandes Annulées
+
+**🔗 Dépôt GitHub** : [Voir le projet](https://github.com/ton-profil/powerbi-sales-dashboard)  
 
 **📌 Description** :
 - Nettoyage et transformation des données avec Power Query
@@ -43,5 +44,5 @@ Ce projet récupère les événements publics de l’API officielle **"Que faire
 
 - 🎓 Étudiant ayant récemment obtenu son Master 2 en Data Science & Stratégie à IONIS STM diplôme d’Expert en Ingénierie Informatique .
 - 📌 Objectif : Devenir Chief Data Officer
-- 💼 Disponible pour un CDI dés maintenant
+- 💼 Disponible dés maintenant pour un **CDI**
 - 📫 Contact : ngoualemaris@gmail.com | [LinkedIn](https://www.linkedin.com/in/aristidengoualem/)
