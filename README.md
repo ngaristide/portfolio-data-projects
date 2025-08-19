@@ -5,7 +5,7 @@ Bienvenue sur mon portfolio de projets en **Data Science**, **Power BI**, et **P
 
 # 🌍 Projet 5 – Dashboard Power BI : Données Géopolitiques & Météorologiques
 
-🔗 **Dépôt GitHub** : [Voir le projet](https://github.com/ngaristide/Dashbord_Projet_POWER-BI)
+🔗 **Dépôt GitHub** : [Voir le projet](https://github.com/ngaristide/PowerBI-GeoWeather-Dashboard.git)
 
 ---
 
