@@ -5,7 +5,7 @@ Bienvenue sur mon portfolio de projets en **Data Science**, **Power BI**, et **P
 
 ## 📊 Projet 4 – Dashboard Power BI : Suivi des Ventes & Commandes Annulées
 
-**🔗 Dépôt GitHub** : [Voir le projet](https://github.com/ton-profil/powerbi-sales-dashboard)  
+**🔗 Dépôt GitHub** : [Voir le projet][(https://github.com/ton-profil/powerbi-sales-dashboard) ](https://github.com/ngaristide/powerbi-sales-dashboard.git) 
 
 **📌 Description** :
 - Nettoyage et transformation des données avec Power Query
