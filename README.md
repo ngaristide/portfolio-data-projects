@@ -3,6 +3,20 @@
 
 Bienvenue sur mon portfolio de projets en **Data Science**, **Power BI**, et **Python**, Vous trouverez ici un aperçu de mes travaux personnels et académiques.
 
+# 🌍 Projet 5 – Dashboard Power BI : Données Géopolitiques & Météorologiques
+
+🔗 **Dépôt GitHub** : [Voir le projet](https://github.com/ngaristide/Dashbord_Projet_POWER-BI)
+
+---
+
+## 📌 Description
+
+- Intégration de données issues de plusieurs **APIs externes** (RestCountries, Open Meteo, Flagpedia)  
+- Nettoyage et transformation des données avec **Power Query**  
+- Conception d’un **modèle relationnel optimisé** (tables de référence, mesures DAX dynamiques)  
+- Création d’une **carte interactive mondiale** avec filtres (continent, langue, météo, température, etc.)  
+- Mise en place d’**infobulles enrichies** affichant drapeau, météo en temps réel et données pays  
+ 
 ## 📊 Projet 4 – Dashboard Power BI : Suivi des Ventes & Commandes Annulées
 
 **🔗 Dépôt GitHub** : [Voir le projet](https://github.com/ngaristide/powerbi-sales-dashboard.git) 
