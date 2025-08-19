@@ -42,7 +42,7 @@ Ce projet récupère les événements publics de l’API officielle **"Que faire
 
 ## 🧑‍💼 À propos de moi
 
-- 🎓 Étudiant ayant récemment obtenu son Master 2 en Data Science & Stratégie à IONIS STM diplôme d’Expert en Ingénierie Informatique .
+- 🎓 Étudiant ayant récemment obtenu son Master 2 en Data Science & Stratégie à IONIS STM diplôme d’Expert en Ingénierie Informatique.
 - 📌 Objectif : Devenir Chief Data Officer
 - 💼 Disponible dés maintenant pour un **CDI**
 - 📫 Contact : ngoualemaris@gmail.com | [LinkedIn](https://www.linkedin.com/in/aristidengoualem/)
