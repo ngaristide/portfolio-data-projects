@@ -3,6 +3,15 @@
 
 Bienvenue sur mon portfolio de projets en Data Science, Power BI, et Python. Vous trouverez ici un aperçu de mes travaux personnels et académiques.
 
+📊 Projet 4 récent – Dashboard Power BI : Suivi des Ventes & Commandes Annulées  
+🔗 Dépôt GitHub : [Voir le projet](https://github.com/ton-profil/powerbi-sales-dashboard)  
+
+**📌 Description** :
+- Nettoyage et transformation des données avec Power Query
+- Modélisation du data model (relations, mesures DAX)
+- Visualisations interactives 
+- Déploiement dans Power BI Service
+
 ## 📊 Projet 1 & 2 – Dashboard Power BI : Évolution des cinémas & Évolution des festivals de france
 
 **🔗 Dépôt GitHub** : [Voir le projet](https://github.com/ngaristide/Dashbord_Projet_POWER-BI)
@@ -32,7 +41,7 @@ Ce projet récupère les événements publics de l’API officielle **"Que faire
 
 ## 🧑‍💼 À propos de moi
 
-- 🎓 Étudiant ayant récemment obtenu son Master 2 en Data Science & Stratégie à IONIS STM (diplôme d’Expert en Ingénierie Informatique en cours de réception).
+- 🎓 Étudiant ayant récemment obtenu son Master 2 en Data Science & Stratégie à IONIS STM diplôme d’Expert en Ingénierie Informatique .
 - 📌 Objectif : Devenir Chief Data Officer
-- 💼 Disponible pour un CDI à partir de janvier 2026
+- 💼 Disponible pour un CDI dés maintenant
 - 📫 Contact : ngoualemaris@gmail.com | [LinkedIn](https://www.linkedin.com/in/aristidengoualem/)
